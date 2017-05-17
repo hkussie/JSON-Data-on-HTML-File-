@@ -1,0 +1,9 @@
+{
+    "name":"Harrison",
+    "age":23,
+    "interests":[
+        { "coding":"yes"},
+        { "dog":"yes"},
+        { "running":"yes"}
+    ]
+}
